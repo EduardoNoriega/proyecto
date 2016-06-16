@@ -1,2 +1,4 @@
 bienvenidos
 adios proyecto
+que bien
+que mal
